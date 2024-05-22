@@ -9,7 +9,7 @@ function Home(){
         navigate("/login");
     }
   return (
-    <div className="welcome">
+    <div className="app-container">
     <h2 className="welcome-text">
        Welcome
     </h2>
